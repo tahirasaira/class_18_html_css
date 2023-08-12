@@ -1,0 +1,49 @@
+#a1:link{
+    color:green;
+}
+#a1:visited{
+    color:red;
+}
+#a1:hover{
+    background-color: black;
+    color:white;
+}
+#a1:active{
+    color:aqua;
+}
+#a5{
+    margin-top:6px ;
+    padding: 10px;
+    border:2px solid green;
+    display:inline-block;
+    border-radius: 0 10px 0 10px ;
+
+}
+.list{
+    list-style-type: disc ;
+    margin: 0;
+    background-color: bisque;
+
+
+}
+.lorem{
+    list-style-type: circle;
+    background-color: aqua;
+
+}
+table{
+    width:100%;
+}
+table,th,td{
+    border: 3px solid red;
+    border-collapse: collapse;
+}
+th{
+    height: 50px;
+    background-color: rgb(115, 12, 248);
+}
+td{
+    text-align: center;
+    vertical-align: center;
+    background-color: aqua;
+}
